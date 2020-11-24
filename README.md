@@ -6,3 +6,6 @@ A partially complete personal project demonstrating a 1-4 combatant per team JRP
 - Grandia-inspired turn meter
 - combatant profile screen
 - dynamic scrollable menus
+
+# Demo:
+[Video (YouTube)](https://www.youtube.com/watch?v=04-PYPRU7DY "Demo")
